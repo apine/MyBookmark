@@ -13,3 +13,9 @@ https://web1.cs.wright.edu/people/faculty/tkprasad/courses/cs781/alephOne.html
 **Pwndbg + GEF + Peda — One for all, and all for one**
 
 https://medium.com/bugbountywriteup/pwndbg-gef-peda-one-for-all-and-all-for-one-714d71bf36b8
+
+## DevOps
+
+**Chaos Engineer Introduction**
+
+https://blog.tw.cloud-ace.com/security/chaos-engineer/
