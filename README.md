@@ -19,3 +19,9 @@ https://medium.com/bugbountywriteup/pwndbg-gef-peda-one-for-all-and-all-for-one-
 **Chaos Engineer Introduction**
 
 https://blog.tw.cloud-ace.com/security/chaos-engineer/
+
+## System Design
+
+**Amazon DynamoDB – a Fast and Scalable NoSQL Database Service Designed for Internet Scale Applications**
+
+https://www.allthingsdistributed.com/2012/01/amazon-dynamodb.html
