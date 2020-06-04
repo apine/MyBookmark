@@ -31,3 +31,9 @@ https://blog.tw.cloud-ace.com/security/chaos-engineer/
 **Amazon DynamoDB – a Fast and Scalable NoSQL Database Service Designed for Internet Scale Applications**
 
 https://www.allthingsdistributed.com/2012/01/amazon-dynamodb.html
+
+## Investing
+
+**只靠一檔金融股，這位「大俠」年領80萬股息！**
+
+https://tw.stock.yahoo.com/news/%E5%8F%AA%E9%9D%A0-%E6%AA%94%E9%87%91%E8%9E%8D%E8%82%A1-%E9%80%99%E4%BD%8D-%E5%A4%A7%E4%BF%A0-%E5%B9%B4%E9%A0%9880%E8%90%AC%E8%82%A1%E6%81%AF-070600114.html
