@@ -32,6 +32,10 @@ https://blog.tw.cloud-ace.com/security/chaos-engineer/
 
 https://www.allthingsdistributed.com/2012/01/amazon-dynamodb.html
 
+**My favorite courses to learn Object-Oriented Programming and Design in 2020**
+
+https://medium.com/javarevisited/my-favorite-courses-to-learn-object-oriented-programming-and-design-in-2019-197bab351733
+
 ## Investing
 
 **只靠一檔金融股，這位「大俠」年領80萬股息！**
