@@ -36,6 +36,16 @@ https://www.allthingsdistributed.com/2012/01/amazon-dynamodb.html
 
 https://medium.com/javarevisited/my-favorite-courses-to-learn-object-oriented-programming-and-design-in-2019-197bab351733
 
+## Flutter
+
+**Flutter dynamic themes in 3 lines!**
+
+https://medium.com/swlh/flutter-dynamic-themes-in-3-lines-c3b375f292e3
+
+**Everything is a Widget, but don’t put everything in one Widget!**
+
+https://medium.com/@lets4r/everything-is-a-widget-but-dont-put-everything-in-a-widget-32f89b5c8bdb
+
 ## Investing
 
 **只靠一檔金融股，這位「大俠」年領80萬股息！**
