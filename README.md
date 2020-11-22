@@ -46,6 +46,10 @@ https://medium.com/swlh/flutter-dynamic-themes-in-3-lines-c3b375f292e3
 
 https://medium.com/@lets4r/everything-is-a-widget-but-dont-put-everything-in-a-widget-32f89b5c8bdb
 
+**Flutter Internationalization done right**
+
+https://harshvardhan-shinde.medium.com/flutter-internationalization-done-right-91d77832d000
+
 ## Investing
 
 **只靠一檔金融股，這位「大俠」年領80萬股息！**
