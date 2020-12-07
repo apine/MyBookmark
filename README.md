@@ -50,6 +50,10 @@ https://medium.com/@lets4r/everything-is-a-widget-but-dont-put-everything-in-a-w
 
 https://harshvardhan-shinde.medium.com/flutter-internationalization-done-right-91d77832d000
 
+**Flutter State Management in 2021: When to Use What?**
+
+https://levelup.gitconnected.com/flutter-state-management-in-2021-when-to-use-what-98722093b8bc
+
 ## Investing
 
 **只靠一檔金融股，這位「大俠」年領80萬股息！**
